@@ -32,7 +32,8 @@
 
 ## 爆金助力
 
-右侧个人介绍有二维码，谢谢你在我缓慢艰难的开发进程中给予关键支持
+![wechat-pay](https://github.com/user-attachments/assets/35be6acc-1762-4031-99ff-1b18d42c663f)
+谢谢你在我缓慢艰难的开发进程中给予关键支持
 
 ## 技术实现
 
